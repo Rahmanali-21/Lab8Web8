@@ -4,7 +4,8 @@
 ![image](https://user-images.githubusercontent.com/84089475/120881155-70819080-c5f9-11eb-968a-dd6f7c95a072.png)
 
 
-![image](https://user-images.githubusercontent.com/84089475/120880881-462ed380-c5f7-11eb-992d-047cfb72150e.png)
+![image](https://user-images.githubusercontent.com/84089475/120881302-411f5380-c5fa-11eb-8e1c-4e1725a6438b.png)
+
 
 menambahkan data
 
