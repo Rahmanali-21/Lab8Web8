@@ -1,6 +1,9 @@
 #Lab8Web8
 #MEMBUAT DATABASE LATIHAN1:
 
+![image](https://user-images.githubusercontent.com/84089475/120881155-70819080-c5f9-11eb-968a-dd6f7c95a072.png)
+
+
 ![image](https://user-images.githubusercontent.com/84089475/120880881-462ed380-c5f7-11eb-992d-047cfb72150e.png)
 
 ![image](https://user-images.githubusercontent.com/84089475/120880977-ec7ad900-c5f7-11eb-87d1-775a2f5a30cc.png)
