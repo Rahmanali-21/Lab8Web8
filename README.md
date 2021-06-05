@@ -14,7 +14,8 @@ INSERT INTO data_barang (kategori, nama, gambar, harga_beli, harga_jual, stok) V
 
 Membuat koneksi file database Buat file baru dengan nama koneksi.php
 
-![image](https://user-images.githubusercontent.com/84089475/120880986-06b4b700-c5f8-11eb-9aed-75a4c6f945ee.png)
+![image](https://user-images.githubusercontent.com/84089475/120881208-c5250b80-c5f9-11eb-9471-ea839e8bf2b2.png)
+
 
 Membuat indeks file untuk menampilkan data (Baca)
 ![image](https://user-images.githubusercontent.com/84089475/120881022-52fff700-c5f8-11eb-92a1-3abe4d1b298a.png)
@@ -35,5 +36,8 @@ Mengubah Data (Update) Buat file baru dengan nama ubah.php
 ![image](https://user-images.githubusercontent.com/84089475/120881115-1254ad80-c5f9-11eb-89ab-7830e3c1a1a2.png)
 
 Menghapus Data (Delete) Buat file baru dengan nama hapus.php
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/84089475/120881223-d5d58180-c5f9-11eb-87e9-c87bb7cdb444.png)
+
+
 
