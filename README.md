@@ -6,8 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/84089475/120880881-462ed380-c5f7-11eb-992d-047cfb72150e.png)
 
-![image](https://user-images.githubusercontent.com/84089475/120880977-ec7ad900-c5f7-11eb-87d1-775a2f5a30cc.png)
-
 menambahkan data
 
 INSERT INTO data_barang (kategori, nama, gambar, harga_beli, harga_jual, stok) VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 5), ('Elektronik', 'HP Xiaomi Android ', 'hp_xiaomi.jpg', 1000000, 1400000, 5), ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
