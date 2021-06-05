@@ -20,6 +20,8 @@ Membuat koneksi file database Buat file baru dengan nama koneksi.php
 Membuat indeks file untuk menampilkan data (Baca)
 ![image](https://user-images.githubusercontent.com/84089475/120881022-52fff700-c5f8-11eb-92a1-3abe4d1b298a.png)
 
+![image](https://user-images.githubusercontent.com/84089475/120881258-074e4d00-c5fa-11eb-934d-b4142b6947de.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/84089475/120881031-6a3ee480-c5f8-11eb-90fa-cc01a84a0182.png)
